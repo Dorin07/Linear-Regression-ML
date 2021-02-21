@@ -1,2 +1,2 @@
 # Linear-Regression-ML
-A basic Machine Learning project.
+A basic Machine Learning project for beginners.
