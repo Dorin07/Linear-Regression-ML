@@ -161,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614027805091</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Update.">
+      <created>1614116562924</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1614116562924</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,11 +186,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start a ML basic project." />
     <MESSAGE value="." />
-    <MESSAGE value="Update." />
     <MESSAGE value="Update 20/02." />
     <MESSAGE value="Update README.md file." />
     <MESSAGE value="Commit 2.0." />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 2.0." />
+    <MESSAGE value="Update." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update." />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613673170439">
@@ -214,10 +221,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613673193468" />
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1614027810440">
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1614116565676">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1614027810440" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1614116565676" />
     <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613677618257">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
