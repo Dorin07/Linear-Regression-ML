@@ -238,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614889782196</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Change.">
+      <created>1614937899584</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1614937899584</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,7 +273,8 @@
     <MESSAGE value="Implement the linear regression algorithm." />
     <MESSAGE value="update." />
     <MESSAGE value="Changes some things." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes some things." />
+    <MESSAGE value="Change." />
+    <option name="LAST_COMMIT_MESSAGE" value="Change." />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613673170439">
@@ -297,10 +305,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613673193468" />
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1614889785053">
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1614937901719">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1614889785053" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1614937901719" />
     <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613677618257">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
